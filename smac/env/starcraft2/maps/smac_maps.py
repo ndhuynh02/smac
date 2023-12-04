@@ -230,6 +230,15 @@ map_param_registry = {
         "unit_type_bits": 0,
         "map_type": "bane",
     },
+    "54m_vs_60m": {
+        "n_agents": 54,
+        "n_enemies": 60,
+        "limit": 280,
+        "a_race": "T",
+        "b_race": "T",
+        "unit_type_bits": 0,
+        "map_type": "marines",
+    },
 }
 
 

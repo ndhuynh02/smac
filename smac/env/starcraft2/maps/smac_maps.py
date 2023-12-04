@@ -221,6 +221,15 @@ map_param_registry = {
         "unit_type_bits": 0,
         "map_type": "colossus",
     },
+    "50zg_vs_1c": {
+        "n_agents": 50,
+        "n_enemies": 1,
+        "limit": 200,
+        "a_race": "Z",
+        "b_race": "P",
+        "unit_type_bits": 0,
+        "map_type": "bane",
+    },
 }
 
 

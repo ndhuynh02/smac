@@ -221,15 +221,6 @@ map_param_registry = {
         "unit_type_bits": 0,
         "map_type": "colossus",
     },
-    "50zg_vs_1c": {
-        "n_agents": 50,
-        "n_enemies": 1,
-        "limit": 200,
-        "a_race": "Z",
-        "b_race": "P",
-        "unit_type_bits": 0,
-        "map_type": "bane",
-    },
     "54m_vs_60m": {
         "n_agents": 54,
         "n_enemies": 60,
@@ -238,6 +229,15 @@ map_param_registry = {
         "b_race": "T",
         "unit_type_bits": 0,
         "map_type": "marines",
+    },
+    "50s_vs_25sc": {
+        "n_agents": 50,
+        "n_enemies": 25,
+        "limit": 400,
+        "a_race": "P",
+        "b_race": "Z",
+        "unit_type_bits": 0,
+        "map_type": "stalkers",
     },
 }
 

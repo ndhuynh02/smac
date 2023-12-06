@@ -242,7 +242,16 @@ map_param_registry = {
     "50m_vs_2c": {
         "n_agents": 50,
         "n_enemies": 2,
-        "limit": 300,
+        "limit": 450,
+        "a_race": "T",
+        "b_race": "P",
+        "unit_type_bits": 0,
+        "map_type": "marines",
+    },
+    "60m_vs_2c": {
+        "n_agents": 60,
+        "n_enemies": 2,
+        "limit": 400,
         "a_race": "T",
         "b_race": "P",
         "unit_type_bits": 0,
